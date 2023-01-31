@@ -1,0 +1,90 @@
+en,zh_CN
+assignee,受让人
+blame,追溯
+branch,分支
+checkout,检出
+cherry-picking,优选
+clean,清洁
+clone,克隆
+code of conduct,行为准则
+code owner,代码所有者
+collaborator,协作者
+commit,提交
+commit author,提交作者
+commit ID,提交 ID
+commit message,提交消息
+continuous integration,持续集成
+contribution guidelines,贡献指南
+contributions,贡献
+contributor,贡献者
+default branch,默认分支
+detached HEAD,游离的 HEAD
+diff,差异
+dirty,脏
+fast-forward,快进
+feature branch,功能分支
+fenced code block,围栏代码块
+fetch,获取
+following (users),跟进（用户）
+force push,强制推送
+fork,复刻
+HEAD,当前分支
+hook,挂钩
+instance,实例
+issue,议题
+key fingerprint,密钥指纹
+keyword,关键词
+label,标签
+license,许可证
+line comment,行注释
+master,主干
+mention,提及
+merge,合并
+merge conflict,合并冲突
+merge request,合并请求
+milestone,里程碑
+mirror,镜像
+non-fast-forward,非快进
+notification,通知
+outside collaborator,外部协作者
+open source,开源
+origin,源
+owner,所有者
+private contributions,私有贡献
+private repository,私有仓库
+production branch,生产分支
+profile,个人资料
+protected branch,受保护分支
+public contributions,公共贡献
+public repository,公共仓库
+pull,拉取
+pull access,拉取权限
+pull request,拉取请求
+pull request review,拉取请求审查
+push,推送
+push a branch,推送分支
+push access,推送权限
+read access,读取权限
+README,自述文件
+rebase,变基
+release,发布
+remote,远程
+remote repository,远程仓库
+remote URL,远程 URL
+replica,副本
+repository,仓库
+repository maintainer,仓库维护员
+resolve,解决
+revert,还原
+review,审查
+service hook,服务挂钩
+squash,压扁
+staging instance,暂存实例
+status,状态
+star,星标
+topic branch,主题分支
+upstream,上游
+upstream branch,上游分支
+watch,查看
+webhooks,web 挂钩
+write access,写入权限
